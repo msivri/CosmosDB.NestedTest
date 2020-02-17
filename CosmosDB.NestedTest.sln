@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDB.NestedTest", "CosmosDB.NestedTest\CosmosDB.NestedTest.csproj", "{1D537FE6-EBBB-4A47-AEC0-3C6205EDDCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D537FE6-EBBB-4A47-AEC0-3C6205EDDCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D537FE6-EBBB-4A47-AEC0-3C6205EDDCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D537FE6-EBBB-4A47-AEC0-3C6205EDDCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D537FE6-EBBB-4A47-AEC0-3C6205EDDCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488063CA-AA85-4F9A-B413-B805861076EB}
+	EndGlobalSection
+EndGlobal
